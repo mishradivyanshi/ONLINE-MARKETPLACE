@@ -2,6 +2,7 @@
 
 
 React + Vite 
+TailWind
 
 //Steps to Run Locally
 
